@@ -1,0 +1,61 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="v-bind:title" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E302" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N806" />
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Django.lab3.student.admin.student" />
+          <option value="Django.lab3.lab3.urls.student" />
+          <option value="Django.lab3.lab3.urls.home" />
+          <option value="Django.lab3.student.views.student" />
+          <option value="Django.lab3.lab3.urls.register" />
+          <option value="Django.lab3.lab3.urls.login" />
+          <option value="Django.lab3.student.admin.report" />
+          <option value="Django.lab3.student.admin.reportAdmin" />
+          <option value="Django.lab3.student.views.report" />
+          <option value="Django.lab.student.views.Student" />
+          <option value="Django.lab.student.views.Score" />
+          <option value="Django.lab.student.views.student" />
+          <option value="Django.lab.student.admin.Student" />
+          <option value="Django.lab.student.admin.Score" />
+          <option value="Django.lab.student.admin.student" />
+          <option value="后端.back.myobject.views.back" />
+          <option value="int.reshape" />
+          <option value="typing.ItemsView.__getitem__" />
+          <option value="bool.float" />
+          <option value="datetime.time.__sub__" />
+          <option value="datetime.time.time" />
+          <option value="memory_profiler" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
